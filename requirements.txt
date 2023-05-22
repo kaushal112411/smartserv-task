@@ -1,4 +1,4 @@
 Flask==1.1.1
 pandas==0.24.2
-requests==2.20.1
+requests==2.31.0
 gunicorn
